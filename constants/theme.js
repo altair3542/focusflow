@@ -8,7 +8,7 @@ export const COLORS = {
   primarySoft: '#DBEAFE',
   primaryText: '#1D4ED8',
   secondarySurface: '#E2E8F0',
-}
+};
 
 export const SPACING = {
   xs: 8,
