@@ -1,4 +1,4 @@
-import { SafeAreaView, View, Text, Pressable, StyleSheet, StatusBar } from 'react-native';
+import { SafeAreaView, View, Text, Pressable, StyleSheet, StatusBar } from 'react-native'
 
 export default function App() {
   return (
